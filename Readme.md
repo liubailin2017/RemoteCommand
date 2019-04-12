@@ -5,3 +5,6 @@
 - Client2.java  远程机器
 - Client1.java  本地机器.
 把三个文件放一个包下方便运行.
+
+## 演示
+![](./demo_img/img.gif)
